@@ -1,4 +1,4 @@
-# iammusaib.github.io
+# iammalikmusaib.github.io
 - 👋 Hi, I’m Mohmmad Musaib
 - 👀 I’m interested in AI, Machine Learning and IoT.
 - 🌱 I’m currently learning Python and Unity.
