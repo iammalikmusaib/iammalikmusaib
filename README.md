@@ -54,7 +54,7 @@
 <td valign="top" width="50%">
 
 ### My Latest Achievements 🏆
--HackerRank -   4 Star 🌟 
+- HackerRank -   4 Star 🌟 
 - 1st Position - Decode Mysteries @Innerve 
 - 2nd Position - Elytra Hacks 
 - Top Evangelist - API Hacks 2.0
