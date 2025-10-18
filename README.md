@@ -63,8 +63,9 @@
 - Insurance Predict System - Python Based with pretty UI
   - Team: TeamX (Malik Musaib) 
   - [Insurance Trailer](https://github.com/iammalikmusaib/INSURANCE-COST-PREDICTION-)
-- Drinko App: A Water Management App.
-  - [Drinko Trailer](https://github.com/iammalikmusaib/Drinko-App)
+- Smart Product Pricing: AMAZON ML Challenge 2025.
+  - Team: Fine‑Tuned Mod
+  - [Project Trailer](https://github.com/iammalikmusaib/smart-product-pricing)
 
 
   <td valign="top" width="50%">
